@@ -1,0 +1,5 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T001|2024-12-01|P1|Laptop|2|45000.0|C001|North|beauty|Essence|2.56|True
+T002|2024-12-02|P2|Mouse Wireless|10|1500.0|C002|South|beauty|Glamour Beauty|2.86|True
+T003|2024-12-04|P3|Monitor|1|15000.0|C004|West|beauty|Velvet Touch|4.64|True
+T004|2024-12-15|P1|Laptop|1|45000.0|C001|North|beauty|Essence|2.56|True
