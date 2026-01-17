@@ -48,12 +48,9 @@ Installation & Execution
 Clone the repository:
 
 
-Bash
-
 cd sales-analytics-system
 Run the application:
 
-Bash
 
 python main.py
 Project Structure
