@@ -47,10 +47,6 @@ requests library
 Installation & Execution
 Clone the repository:
 
-Bash
-
-git clone https://github.com/your-username/sales-analytics-system.git
-Navigate to the project folder:
 
 Bash
 
